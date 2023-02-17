@@ -6,6 +6,6 @@ int main(void) {
   cout << "Hello, World\n";
   cout << "Hello, Jenkins\n";
   cout << "I have successfully built and run\n";
-  cout << "Added some changes to the hello.cpp file\n";
+  cout << "This is jenkins assignment\n";
   return 0;
 }
